@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "electron": "^27.1.0",
+    "typescript": "^5.2.2"
+  },
+  "name": "asig_proyecto",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OneWinterSigh/asig_proyecto.git"
+  },
+  "author": "German Ruiz Cabello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OneWinterSigh/asig_proyecto/issues"
+  },
+  "homepage": "https://github.com/OneWinterSigh/asig_proyecto#readme",
+  "description": ""
+}
